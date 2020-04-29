@@ -2,7 +2,7 @@ var obstacles = [];
 var horizon, obstacleSpeed, score, sprite;
 
 function preload() {
-  panda = loadImage('images/panda.png');
+  panda = loadImage('./images/panda.png');
 }
 
 function setup() {
