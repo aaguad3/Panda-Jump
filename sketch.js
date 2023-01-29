@@ -6,7 +6,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(windowWidth, 100);
+  createCanvas(windowWidth, 300);
   horizon = height - 40;
 	score = 0;
 	obstacleSpeed = 6;
